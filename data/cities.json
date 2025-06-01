@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "id": "02ff",
+      "cityName": "Ar Raml",
+      "position": {
+        "lat": "31.232887362746748",
+        "lng": "29.965209960937504"
+      },
+      "country": "Egypt",
+      "date": "2025-06-01T00:08:38.098Z",
+      "notes": ""
+    },
+    {
+      "id": "99c2",
+      "cityName": "La Puebla de Valverde",
+      "position": {
+        "lat": "40.14559259186438",
+        "lng": "-0.9860229492187501"
+      },
+      "country": "Spain",
+      "date": "2025-06-01T00:55:41.071Z",
+      "notes": "nonfoasfn"
+    }
+  ]
+}
